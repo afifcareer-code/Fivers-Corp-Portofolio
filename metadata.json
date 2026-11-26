@@ -1,0 +1,6 @@
+{
+  "name": "Fivers Corp",
+  "description": "Technology at the Core. Opportunities Beyond the Screen. Applied AI, software, digital products, and real-world business exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

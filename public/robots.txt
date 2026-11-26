@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Configure VITE_SITE_URL at build time to emit Sitemap: https://<production-domain>/sitemap.xml
